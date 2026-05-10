@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  PLACEHOLDER MARK - not an official UT Austin asset.
+  Replace with the licensed wordmark from https://umac.utexas.edu/brand-center/
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 60 60" role="img" aria-label="University of Texas at Austin">
+  <rect width="60" height="60" rx="6" fill="#BF5700"/>
+  <text x="30" y="40" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-size="28" font-weight="700" fill="#ffffff">UT</text>
+</svg>

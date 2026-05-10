@@ -5,17 +5,17 @@
       {
         "variable_name": "ic-brand-primary",
         "type": "color",
-        "default": "#2B7ABC"
+        "default": "#BF5700"
       },
       {
         "variable_name": "ic-brand-font-color-dark",
         "type": "color",
-        "default": "#273540"
+        "default": "#333F48"
       },
       {
         "variable_name": "ic-link-color",
         "type": "color",
-        "default": "#0E68B3"
+        "default": "#BF5700"
       },
       {
         "variable_name": "ic-brand-button--primary-bgd",
@@ -30,7 +30,7 @@
       {
         "variable_name": "ic-brand-button--secondary-bgd",
         "type": "color",
-        "default": "#273540"
+        "default": "#333F48"
       },
       {
         "variable_name": "ic-brand-button--secondary-text",
@@ -45,7 +45,7 @@
       {
         "variable_name": "ic-brand-global-nav-bgd",
         "type": "color",
-        "default": "#334451"
+        "default": "#333F48"
       },
       {
         "variable_name": "ic-brand-global-nav-ic-icon-svg-fill",
@@ -95,19 +95,19 @@
       {
         "variable_name": "ic-brand-global-nav-logo-bgd",
         "type": "color",
-        "default": "#334451"
+        "default": "#333F48"
       },
       {
         "variable_name": "ic-brand-header-image",
         "type": "image",
         "accept": "image/png,image/gif,image/jpeg,image/svg+xml,image/svg",
-        "default": "/images/canvas_logomark_only@2x.png"
+        "default": "/images/ut/ut-logomark.svg"
       },
       {
         "variable_name": "ic-brand-mobile-global-nav-logo",
         "type": "image",
         "accept": "image/png,image/gif,image/jpeg,image/svg+xml,image/svg",
-        "default": "/images/mobile-global-nav-logo.svg"
+        "default": "/images/ut/ut-mobile-nav-logo.svg"
       }
     ]
   },
@@ -168,7 +168,7 @@
       {
         "variable_name": "ic-brand-Login-body-bgd-color",
         "type": "color",
-        "default": "#334451"
+        "default": "#BF5700"
       },
       {
         "variable_name": "ic-brand-Login-body-bgd-image",
@@ -179,13 +179,13 @@
       {
         "variable_name": "ic-brand-Login-body-bgd-shadow-color",
         "type": "color",
-        "default": "#273540"
+        "default": "#8E4000"
       },
       {
         "variable_name": "ic-brand-Login-logo",
         "type": "image",
         "accept": "image/png,image/gif,image/jpeg, image/svg+xml,image/svg",
-        "default": "/images/login/canvas-logo.svg"
+        "default": "/images/ut/ut-login-logo.svg"
       },
       {
         "variable_name": "ic-brand-Login-Content-bgd-color",
@@ -245,7 +245,7 @@
       {
         "variable_name": "ic-brand-Login-custom-message",
         "type": "textarea",
-        "default": ""
+        "default": "What starts here changes the world."
       }
     ]
   },

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+  PLACEHOLDER MARK - not an official UT Austin asset.
+  Replace with the licensed wordmark from https://umac.utexas.edu/brand-center/
+-->
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 160 40" role="img" aria-label="University of Texas at Austin">
+  <rect width="160" height="40" fill="#BF5700"/>
+  <text x="12" y="28" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="700" fill="#ffffff" letter-spacing="2">TEXAS</text>
+  <text x="92" y="17" font-family="Helvetica, Arial, sans-serif" font-size="9" fill="#ffffff" letter-spacing="1">THE UNIVERSITY OF</text>
+  <text x="92" y="30" font-family="Helvetica, Arial, sans-serif" font-size="9" fill="#ffffff" letter-spacing="1">AT AUSTIN</text>
+</svg>
